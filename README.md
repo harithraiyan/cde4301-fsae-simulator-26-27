@@ -1237,75 +1237,11 @@ realistic driver accommodation.</p>
 <p>Table G presents the proposed project timeline from November 2026 to
 April 2027.</p>
 </blockquote>
-<table class="data-table">
-<colgroup>
-<col style="width: 28%"/>
-<col style="width: 12%"/>
-<col style="width: 12%"/>
-<col style="width: 12%"/>
-<col style="width: 12%"/>
-<col style="width: 12%"/>
-<col style="width: 11%"/>
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>Project Activity</strong></th>
-<th><strong>Nov ’26</strong></th>
-<th><strong>Dec ’26</strong></th>
-<th><strong>Jan ’27</strong></th>
-<th><strong>Feb ’27</strong></th>
-<th><strong>Mar ’27</strong></th>
-<th><strong>Apr ’27</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Finalised CAD &amp; Specifications</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Engineering Analysis</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Fabrication &amp; Assembly</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Testing &amp; Validation</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Motion-rig Integration</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<h2 class="section-heading" id="project-timeline">Project Timeline</h2>
+<blockquote>
+<p>Table G presents the proposed project timeline from November 2026 to April 2027.</p>
+</blockquote>
+<p><img src="image37.png" alt="Project Timeline"></p>
 <p class="figure-caption"><span class="anchor" id="_Toc245566502"></span>Table G: Project
 Timeline</p>
 </body></article></div><footer>CDE4301 · NUS Formula SAE · Interim project documentation</footer></body></html>
