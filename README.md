@@ -1234,11 +1234,6 @@ realistic driver accommodation.</p>
 </blockquote>
 <h2 class="section-heading" id="project-timeline">Project Timeline</h2>
 <blockquote>
-<p>Table G presents the proposed project timeline from November 2026 to
-April 2027.</p>
-</blockquote>
-<h2 class="section-heading" id="project-timeline">Project Timeline</h2>
-<blockquote>
 <p>Table G presents the proposed project timeline from November 2026 to April 2027.</p>
 </blockquote>
 <p><img src="image37.png" alt="Project Timeline"></p>
