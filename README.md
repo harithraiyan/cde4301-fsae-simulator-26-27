@@ -1,6 +1,6 @@
 # cde4301-fsae-simulator-26-27
 CDE4301 FSAE Race Car Simulator 26/27 Interim Report
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NUS FSAE Simulator | CDE4301</title><meta name="description" content="CDE4301 NUS Formula SAE race car simulator design and interim documentation"><style>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">NUS FSAE Simulator | CDE4301<meta name="description" content="CDE4301 NUS Formula SAE race car simulator design and interim documentation"><style>
 </head><body><div class="top"><strong>NUS FORMULA SAE</strong><span>CDE4301 · AY2026/27</span></div><header class="hero"><div class="eyebrow">ENGINEERING CAPSTONE · INTERIM DOCUMENTATION</div><h1>FSAE Race Car Simulator</h1><p>Design and development of a modular, adjustable simulator to support driver training and reproduce Formula SAE cockpit geometry.</p><span class="pill">SolidWorks CAD</span><span class="pill">Structural FEA</span><span class="pill">Design & validation</span></header><div class="layout"><aside><h2>Explore the report</h2><a href="#executive-summary">Executive Summary</a><a href="#introduction">Introduction</a><a href="#existing-system-analysis">Existing System Analysis</a><a href="#engineering-research-and-benchmarking">Engineering Research and
 Benchmarking</a><a href="#cad-modelling-and-design-development">CAD Modelling and Design
 Development</a><a href="#cad-engineering-validation-and-testing">CAD Engineering
