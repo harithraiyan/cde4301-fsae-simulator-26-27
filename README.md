@@ -8,7 +8,7 @@ Validation and Testing</a><a href="#future-work">Future Work</a><a href="#acknow
 <blockquote>
 <p><strong>CDE4301 – FSAE Race Car Simulator</strong></p>
 </blockquote>
-<p><img alt="Project report illustration" loading="lazy" src="image1.png" style="width:4.34762in;height:1.99375in"/><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image2.jpeg" style="width:5.35048in;height:2.12333in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image1.png" style="width:4.34762in;height:1.99375in"/><img alt="Project report illustration" loading="lazy" src="image2.jpeg" style="width:5.35048in;height:2.12333in"/></p>
 <blockquote>
 <p><strong>CDE4301 Report</strong></p>
 <p><strong>AY2026/27</strong></p>
@@ -328,7 +328,7 @@ introduces several design constraints, particularly in terms of the
 simulator frame's dimensions, weight distribution, mounting points, and
 structural compatibility. Furthermore, the limited project budget makes
 replacing the existing motion platform impractical.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image3.png" style="width:4.1631in;height:2.89073in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image3.png" style="width:4.1631in;height:2.89073in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566471"></span>Figure 1: Existing DOF
 Reality motion platform acquired by the previous FYP team (DOF Reality
@@ -340,7 +340,7 @@ controlled actuators positioned at different corners of the simulator to
 provide motion feedback. While such systems might offer a much better
 approach for us due to our long structure, their significantly higher
 costs make them less feasible within the project's budget.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image4.png" style="width:3.43361in;height:2.28952in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image4.png" style="width:3.43361in;height:2.28952in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566472"></span>Figure 2: Example of a
 D-BOX four-actuator motion simulator for comparison</p>
@@ -549,7 +549,7 @@ to identify relevant design approaches.</p>
 rigid, open-frame structures that support adjustable seats, steering
 wheels, pedals and displays. These designs demonstrate how essential
 driver interfaces can be integrated into a compact and modular setup
-without requiring a motion platform.<img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image5.png" style="width:2.14815in;height:1.75063in"/><img alt="F1 Simulator vs GT-Style Sim Rig: Which Wins? | Pagnian" loading="lazy" src="/mnt/data/fsae_github_site/media/image6.jpeg" style="width:2.2037in;height:1.56249in"/><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image7.png" style="width:1.85185in;height:1.85185in"/></p>
+without requiring a motion platform.<img alt="Project report illustration" loading="lazy" src="image5.png" style="width:2.14815in;height:1.75063in"/><img alt="F1 Simulator vs GT-Style Sim Rig: Which Wins? | Pagnian" loading="lazy" src="image6.jpeg" style="width:2.2037in;height:1.56249in"/><img alt="Project report illustration" loading="lazy" src="image7.png" style="width:1.85185in;height:1.85185in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566473"></span>Figure 3: Samples of
 Race Car Simulators without Motion Rig</p>
@@ -559,7 +559,7 @@ stronger supporting structures and increase design complexity and
 weight. These examples highlight the importance of designing the
 simulator as a functional static platform while considering future
 motion-rig integration.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image8.png" style="width:2.30556in;height:2.1316in"/><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image9.png" style="width:1.96249in;height:1.88819in"/><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image10.png" style="width:2.04199in;height:1.86921in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image8.png" style="width:2.30556in;height:2.1316in"/><img alt="Project report illustration" loading="lazy" src="image9.png" style="width:1.96249in;height:1.88819in"/><img alt="Project report illustration" loading="lazy" src="image10.png" style="width:2.04199in;height:1.86921in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566474"></span>Figure 4: Samples of
 Race Car Simulators with Motion Rig</p>
@@ -651,7 +651,7 @@ mechanism consists of a fixed support bracket with a curved adjustment
 slot and a rotating mounting bracket connected to the steering
 wheelbase. Once the desired angle is achieved, locking bolts are
 tightened to secure the steering wheel in position.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image11.png" style="width:3.48486in;height:2.5781in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image11.png" style="width:3.48486in;height:2.5781in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566475"></span>Figure 5: Rough sketch
 of an adjustable steering wheel angle</p>
@@ -674,7 +674,7 @@ Adjustment</em></p></li>
 <p>Keeps a rigid bar like Concept A, but the hub sits on a removable
 stack of spacer plates between the bar and the wheel. Add or remove
 spacers to change how far the wheel sits from the driver.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image12.jpg" style="width:2.56482in;height:2.58054in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image12.jpg" style="width:2.56482in;height:2.58054in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566476"></span>Figure 6: Rough sketch
 of a spacer-based adjustment steering wheel</p>
@@ -696,7 +696,7 @@ cross bar that carries the wheel. A sliding clamp on each rod lets the
 whole bar move up/down and toward/away from the driver, and the two-rod
 (rather than single-post) layout resists twisting under steering loads
 much better than one central post</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image13.jpeg" style="width:4.85185in;height:3.08787in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image13.jpeg" style="width:4.85185in;height:3.08787in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566477"></span>Figure 7: Rough sketch
 of a two-rod cantilever adjustment steering wheel</p>
@@ -715,7 +715,7 @@ simulator runs under a motion rig.</p>
 <li><p><em><strong>Concept A</strong> – Lead-Screw Pedal
 Adjustment</em></p></li>
 </ol>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image14.png" style="width:6.90625in;height:2.54167in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image14.png" style="width:6.90625in;height:2.54167in"/></p>
 <p class="figure-caption"><span class="anchor" id="_Toc245566478"></span>Figure 8: Rough sketch
 of a lead-screw pedal adjustment</p>
 <ul>
@@ -748,7 +748,7 @@ loads.</p>
 <li><p><em><strong>Concept B</strong> – Slotted-Rail Pedal
 Adjustment</em></p></li>
 </ol>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image15.png" style="width:6.90625in;height:2.52083in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image15.png" style="width:6.90625in;height:2.52083in"/></p>
 <p class="figure-caption"><span class="anchor" id="_Toc245566479"></span>Figure 9: Rough sketch
 of a slotted-rail pedal adjustment</p>
 <ul>
@@ -779,7 +779,7 @@ load.</p>
 <li><p><em><strong>Concept C</strong> – Indexed-Hole Pedal
 Adjustment</em></p></li>
 </ol>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image16.png" style="width:6.90625in;height:2.82292in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image16.png" style="width:6.90625in;height:2.82292in"/></p>
 <p class="figure-caption"><span class="anchor" id="_Toc245566480"></span>Figure 10: Rough
 sketch of a indexed-hole pedal adjustment</p>
 <ul>
@@ -814,7 +814,7 @@ Chassis</em></p>
 <p>At this stage, several preliminary concepts will be developed before
 a detailed CAD.</p>
 </blockquote>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image17.jpeg" style="width:4.75926in;height:2.7367in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image17.jpeg" style="width:4.75926in;height:2.7367in"/></p>
 <p class="figure-caption"><span class="anchor" id="_Toc245566481"></span>Figure 11: Rough
 Sketch of Race Car Simulator</p>
 <h2 class="section-heading" id="motion-rig-frame-reference">Motion Rig Frame Reference</h2>
@@ -824,7 +824,7 @@ Sketch of Race Car Simulator</p>
 for potential future integration. Its dimensional drawings provide the
 necessary information to assess the simulator's mounting requirements,
 overall dimensions and compatibility with the existing motion
-platform.<img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image18.png" style="width:5.53063in;height:3.91718in"/></p>
+platform.<img alt="Project report illustration" loading="lazy" src="image18.png" style="width:5.53063in;height:3.91718in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566482"></span>Figure 12: Dimensions
 of DOF Reality H3 Universal Motion Platform</p>
@@ -838,7 +838,7 @@ future attachment to a motion platform.</p>
 <ol type="1">
 <li><p>Aluminium T-slot extrusion</p></li>
 </ol>
-<p><img alt="4040 Silver T-Slot Aluminium Profile – 40 Series Normal – 40×40mm – RM components" loading="lazy" src="/mnt/data/fsae_github_site/media/image19.jpeg" style="width:2.39375in;height:2.00903in"/>Modular
+<p><img alt="4040 Silver T-Slot Aluminium Profile – 40 Series Normal – 40×40mm – RM components" loading="lazy" src="image19.jpeg" style="width:2.39375in;height:2.00903in"/>Modular
 aluminium profiles connected using brackets, bolts and T-nuts.</p>
 <p><strong>Pros</strong>: Highly adjustable, lightweight,
 corrosion-resistant, easy to assemble and modify without welding.</p>
@@ -848,7 +848,7 @@ designed.</p>
 <ol start="2" type="1">
 <li><p>Welded steel square tubing</p></li>
 </ol>
-<p><img alt="Custom Welding and Metal Fabrication Examples | Puget Sound Welding" loading="lazy" src="/mnt/data/fsae_github_site/media/image20.jpeg" style="width:2.33333in;height:1.74931in"/>Steel
+<p><img alt="Custom Welding and Metal Fabrication Examples | Puget Sound Welding" loading="lazy" src="image20.jpeg" style="width:2.33333in;height:1.74931in"/>Steel
 hollow sections joined through welding to form a permanent frame.</p>
 <p><strong>Pros</strong>: High stiffness, strong rigid joints,
 relatively inexpensive raw material and good durability.</p>
@@ -858,7 +858,7 @@ protection.</p>
 <ol start="3" type="1">
 <li><p>Aluminium square tubing / fabricated frame</p></li>
 </ol>
-<p><img alt="Premium Heavy Duty 19mm x 19mm x 3.2mm Aluminium Square Tube for Struc – Industrialsafety-UK.co.uk" loading="lazy" src="/mnt/data/fsae_github_site/media/image21.jpeg" style="width:2.06806in;height:2.06806in"/>Aluminium
+<p><img alt="Premium Heavy Duty 19mm x 19mm x 3.2mm Aluminium Square Tube for Struc – Industrialsafety-UK.co.uk" loading="lazy" src="image21.jpeg" style="width:2.06806in;height:2.06806in"/>Aluminium
 hollow sections joined by welding or custom mechanical connections.</p>
 <p><strong>Pros</strong>: Lightweight, corrosion-resistant, potentially
 lower material cost than T-slot extrusion and flexible frame
@@ -954,7 +954,7 @@ structural rigidity, adjustability and modularity, allowing components
 to be repositioned or replaced. The elongated frame accommodates
 longitudinal adjustments, while the lower structure considers future
 integration with the existing motion platform.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image22.jpeg" style="width:4.37963in;height:3.0574in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image22.jpeg" style="width:4.37963in;height:3.0574in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566483"></span>Figure 13: Concept
 Design for our FSAE Race Car Simulator</p>
@@ -1014,7 +1014,7 @@ crossmembers. Its modular design facilitates assembly, component
 adjustment and future modifications, while additional crossmembers
 provide mounting support for the seat, steering system and pedal
 assembly.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image23.jpeg" style="width:4.14771in;height:2.52778in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image23.jpeg" style="width:4.14771in;height:2.52778in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566484"></span>Figure 14: Isometric
 View of the Initial FSAE Simulator Frame CAD Assembly</p>
@@ -1039,7 +1039,7 @@ mm profiles. This arrangement provides rigid support for the steering
 wheelbase while distributing loads across the chassis. The modular
 design also allows horizontal repositioning of the steering assembly to
 accommodate different driver ergonomics and future adjustments.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image24.png" style="width:4.56108in;height:3.13169in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image24.png" style="width:4.56108in;height:3.13169in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566485"></span>Figure 15: Isometric
 View of the Integrated Steering System and Simulator Frame</p>
@@ -1049,7 +1049,7 @@ View of the Integrated Steering System and Simulator Frame</p>
 steering wheelbase and the aluminium support structure. The plate
 measures 200 × 150 mm with a thickness of 6 mm and is positioned
 centrally on the horizontal crossmember.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image25.png" style="width:4.42057in;height:2.64335in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image25.png" style="width:4.42057in;height:2.64335in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566486"></span>Figure 16: CAD Model
 of the Steering Wheel Mounting Plate</p>
@@ -1063,7 +1063,7 @@ to the chassis.</p>
 to be repositioned along the frame without requiring major structural
 modifications. This provides flexibility for subsequent ergonomic
 adjustments and integration with the seat and pedal assemblies.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image26.png" style="width:4.91528in;height:3.21875in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image26.png" style="width:4.91528in;height:3.21875in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566487"></span>Figure 17: Close-up
 CAD model of the steering wheel</p>
@@ -1088,7 +1088,7 @@ pedal position to be modified, while the supporting structure was
 designed to withstand braking forces. The modular arrangement also
 allows future modifications and integration with the main simulator
 frame.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image27.png" style="width:4.37288in;height:3.09565in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image27.png" style="width:4.37288in;height:3.09565in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566488"></span>Figure 18: Close up
 CAD model view of pedal box</p>
@@ -1109,7 +1109,7 @@ structure was designed using aluminium T-slot extrusions to securely
 mount the seat and maintain structural rigidity during simulator
 operation. A headrest was also incorporated to better represent the
 actual racing seat configuration.</p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image28.jpeg" style="width:3.65217in;height:3.07881in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image28.jpeg" style="width:3.65217in;height:3.07881in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566489"></span>Figure 19: Close up
 CAD model view of seat structure</p>
@@ -1122,7 +1122,7 @@ accommodating the required harness geometry. The design prioritises
 driver ergonomics, structural stability and compatibility with the
 overall simulator frame.</p>
 </blockquote>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image29.png" style="width:4.14679in;height:2.69565in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image29.png" style="width:4.14679in;height:2.69565in"/></p>
 <p class="figure-caption"><span class="anchor" id="_Toc245566490"></span>Figure 20: Close up
 CAD model view of harness reinforcements</p>
 <h2 class="section-heading" id="complete-simulator-assembly">Complete Simulator Assembly</h2>
@@ -1135,7 +1135,7 @@ component positioning, mounting compatibility and overall integration
 while prioritising structural rigidity, driver adjustability and
 realistic FSAE cockpit geometry.</p>
 </blockquote>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image30.jpeg" style="width:4.17685in;height:3.06957in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image30.jpeg" style="width:4.17685in;height:3.06957in"/></p>
 <p class="figure-caption"><span class="anchor" id="_Toc245566491"></span>Figure 21: Isometric
 view of FSAE Race Car Simulator CAD</p>
 <blockquote>
@@ -1147,7 +1147,7 @@ validation planned through dimensional comparisons with the actual race
 car and physical fitment tests involving drivers of different body
 sizes.</p>
 </blockquote>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image31.jpeg" style="width:4.26956in;height:3.72538in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image31.jpeg" style="width:4.26956in;height:3.72538in"/></p>
 <p class="figure-caption"><span class="anchor" id="_Toc245566492"></span>Figure 22: Isometric
 view of FSAE Race Car Simulator CAD with human</p>
 <h1 class="chapter" id="cad-engineering-validation-and-testing">CAD Engineering
@@ -1170,8 +1170,8 @@ central mounting block and horizontal members experienced comparatively
 lower stress. Using the Aluminum 6061-T6 yield strength of 276 MPa, the
 theoretical factor of safety was calculated as:</p>
 </blockquote>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image32.png" style="width:3.41949in;height:0.59167in"/></p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image33.jpeg" style="width:4.43478in;height:2.57825in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image32.png" style="width:3.41949in;height:0.59167in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image33.jpeg" style="width:4.43478in;height:2.57825in"/></p>
 <p class="figure-caption"><span class="anchor" id="_Toc245566493"></span>Figure 23: Axial Push
 Force Simulation Analysis on steering wheel structure</p>
 <blockquote>
@@ -1187,8 +1187,8 @@ while the central mounting block and horizontal members experienced
 comparatively lower stress. The theoretical factor of safety was
 calculated as:</p>
 </blockquote>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image34.png" style="width:3.29825in;height:0.66497in"/></p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image35.png" style="width:4.19798in;height:2.74167in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image34.png" style="width:3.29825in;height:0.66497in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image35.png" style="width:4.19798in;height:2.74167in"/></p>
 <p><span class="anchor" id="_Toc245566494"></span>Figure : Axial Pull
 Force Simulation Analysis on steering wheel structure</p>
 <blockquote>
@@ -1210,7 +1210,7 @@ approximate yield strength of 276 MPa. The theoretical factor of safety
 against yielding was calculated as:</p>
 <p><span class="math display">$$FOS = \ \frac{\sigma_{y}}{\sigma_{\max}}
 = \ \frac{276}{2.697} = 102.3$$</span></p>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image36.png" style="width:3.97391in;height:3.43214in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image36.png" style="width:3.97391in;height:3.43214in"/></p>
 </blockquote>
 <p class="figure-caption"><span class="anchor" id="_Toc245566495"></span>Figure 25: Torsion
 Simulation Analysis on steering wheel structure</p>
