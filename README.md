@@ -8,7 +8,7 @@ Validation and Testing</a><a href="#future-work">Future Work</a><a href="#acknow
 <blockquote>
 <p><strong>CDE4301 – FSAE Race Car Simulator</strong></p>
 </blockquote>
-<p><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image1.png" style="width:4.34762in;height:1.99375in"/><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image2.jpeg" style="width:5.35048in;height:2.12333in"/></p>
+<p><img alt="Project report illustration" loading="lazy" src="image1.png" style="width:4.34762in;height:1.99375in"/><img alt="Project report illustration" loading="lazy" src="/mnt/data/fsae_github_site/media/image2.jpeg" style="width:5.35048in;height:2.12333in"/></p>
 <blockquote>
 <p><strong>CDE4301 Report</strong></p>
 <p><strong>AY2026/27</strong></p>
